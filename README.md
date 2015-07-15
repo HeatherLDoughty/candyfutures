@@ -1,3 +1,3 @@
-# candyfutures
-[view webpage](http://wisdomvisionsoftware.com/heather/CandyFuture/candyFuture/candyFuture.html)
+# CandyFutures - Candy Coated web futures sample 
+[view webpage](http://candyfuture.azurewebsites.net/candyFuture.html)
 
