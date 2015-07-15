@@ -58,8 +58,13 @@ function tempcodeArticles(){
 
     articles.push({
         title: "You're looking at code",
-        article: "<p><br/>  This is an imageless website. Everything you see is rendered using HTML5, CSS3, and JQuery. The colors are generated using a sine function to create random complementary colors. <br/>" +
-            "<br/> Click the link on the left to see new colors or click a bubble to pop it! Neat huh? <br/> <br/>"// P.S. If you want to hire an awesome .NET developer with a creative streak <a href='mailto:heatherleedoughty@gmail.com ?subject=CandyFutures'>Send me an Email</a></p>"
+        article: "<p><br/> This is an imageless website. Everything you see is rendered using HTML5, CSS3, and JQuery + JQueryUI. The colors are generated using a sine function to create random complementary colors. <br/>" +
+            "<br/> Click the link on the left to see new colors or click a bubble to pop it!<br/> <br/>" +
+            "<br/> <br/> <br/> Buttons by: <a href ='http://simurai.com/archive/buttons/'>simurai</a><br/>" +
+            "Sweet look and feel inspired by: <a href='http://www.cupcakeipsum.com/'>Cupcake Ipsum</a>" +
+            "Sine wave color generation methods discovered with tutorial by: <a href ='http://krazydad.com/tutorials/makecolors.php'> Jim Bumgardner</a> </br> </br>" +
+
+            "<a href='https://www.linkedin.com/in/heatherleedoughty'>Visit me on LinkedIn</a></p>"
     })
 
     articles.push({
